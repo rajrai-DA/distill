@@ -1,3 +1,4 @@
+# Version V1.0
 # Distill — Pure knowledge, every class
 
 > An AI-powered classroom assessment tool by Inceptez .  
@@ -5,16 +6,18 @@
 
 # Distill — Pure knowledge, for each and every class
 > An AI-powered classroom assessment tool by Inceptez.  
+> Built with FastAPI, React, Ollama, LM Studio, and Whisper.
 > Paste a transcript → get a concept map + adaptive quiz + Dr. Priya's interview debrief.
-
+Added new line by Dam
 ---
 #docFixes
+ **Sunitha**
 
---AS version
+## What It Does below
 
-## What It Does
+--New Line Added--
 
-Distill turns any Teams / Zoom / Google Meet transcript into a complete learning assessment in minutes:
+Distill turns any Teams / Zoom / Google Meet or other transcripts into a complete learning assessment in minutes:
 
 1. **Analyzes the transcript** — map-reduce summarization extracts topics, key concepts, and a structured summary
 2. **Draws a concept map** — Mermaid diagram showing how every concept connects
@@ -26,10 +29,10 @@ All processing happens locally. No data leaves your machine when using Ollama or
 
 Just a testing 
 
----
+-----
 
 ## Architecture
-
+### Changes made by Bineetha
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                          Browser (localhost:5173)                   │
@@ -645,6 +648,13 @@ This also serves as a guid for PR - Pull requests:
 - document Update: docs/update-readme
 ---
 
+## Who Is This For?
+
+- AI Architects designing LLM-powered systems
+- Backend Engineers building streaming AI APIs
+- Frontend Engineers integrating SSE-based UX
+- Educators building AI-assisted learning tools
+- Product Managers exploring AI-native UX patterns
 
 ## Licensex
 
@@ -654,6 +664,7 @@ MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez
 Trying to add some doc
 #Testing line - Sabari
 #Testing - Karthik
+#adding a new line
 #Testing - Nat
 
 #Testing - Nat
@@ -661,13 +672,19 @@ Trying to add some doc
 - readme changes
 - added new features
 
+ # Testing GIT Changes
 #Testing - Nat
 #adding testing line 
 #Testing - Nat- readme changes
+#Testing -Bhagya
 
 #Testing - Naushin. 
 
 MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez.
+
+# Testing by kannabiran
+## changes to readme to get contributor access for Gopal KV... from inceptez class  
+check readme
 
 ## Test Comment from Raj
 ...
