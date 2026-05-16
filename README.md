@@ -6,6 +6,8 @@
 ---
 #docFixes
 
+--AS version
+
 ## What It Does
 
 Distill turns any Teams / Zoom / Google Meet transcript into a complete learning assessment in minutes:
@@ -16,7 +18,7 @@ Distill turns any Teams / Zoom / Google Meet transcript into a complete learning
 4. **Evaluates every answer** — MCQ explanations + Dr. Priya's AI interview debrief across 5 dimensions
 5. **Exports results** — WhatsApp-ready report with score, verdict, and study recommendations
 
-All processing happens locally. No data leaves your machine when using Ollama or LM Studio.
+All processing happens locally. No data leaves your machine when using Ollama or LM Studio !!!
 
 ---
 
@@ -335,7 +337,8 @@ make dev   # starts backend + frontend together
 
 ## Setup — Cloud LLM (OpenAI / Anthropic / Gemini)
 
-No local server needed. Just set the API key and update `config.yaml`.
+
+No local server needed. Just set the API key and update `config.yaml`
 
 ### OpenAI
 
@@ -628,5 +631,10 @@ MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez.
 
 Trying to add some doc
 #Testing line - Sabari
+
+- readme changes
+
+
+#Testing - Nat
 #adding testing line 
 #Testing - Nat- readme changes
