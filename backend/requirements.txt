@@ -21,6 +21,7 @@ langchain-openai==0.2.9
 
 # STT
 openai-whisper==20240930
+# This version of whisper is compatible with Python 3.12.
 
 # Dev
 pytest==8.3.4
