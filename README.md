@@ -656,7 +656,7 @@ This also serves as a guid for PR - Pull requests:
 - Educators building AI-assisted learning tools
 - Product Managers exploring AI-native UX patterns
 
-## Licensex
+## License
 
 MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez
 
