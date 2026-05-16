@@ -627,8 +627,9 @@ This also serves as a guid for PR - Pull requests:
 - bugfix : bugfix/fix-login-button
 - document Update: docs/update-readme
 ---
-
-## Licensex
+This is a testing line
+## License
+=======
 
 MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez.
 
