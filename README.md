@@ -239,6 +239,7 @@ Or use the CLI after installing LM Studio:
 lms server start
 lms get qwen/qwen3-4b-2507    # downloads GGUF Q8_0
 ```
+note: "qwen/" is a path and not a model name
 
 ### Step 3 — Load the model with a large context window
 
