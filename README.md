@@ -5,14 +5,16 @@
 
 # Distill — Pure knowledge, for each and every class
 > An AI-powered classroom assessment tool by Inceptez.  
+> Built with FastAPI, React, Ollama, LM Studio, and Whisper.
 > Paste a transcript → get a concept map + adaptive quiz + Dr. Priya's interview debrief.
-
+Added new line by Dam
 ---
 #docFixes
-
---AS version
+ **Sunitha**
 
 ## What It Does
+
+--New Line Added--
 
 Distill turns any Teams / Zoom / Google Meet transcript into a complete learning assessment in minutes:
 
@@ -26,10 +28,10 @@ All processing happens locally. No data leaves your machine when using Ollama or
 
 Just a testing 
 
----
+-----
 
 ## Architecture
-
+### Changes made by Bineetha
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                          Browser (localhost:5173)                   │
@@ -634,30 +636,45 @@ Distill accepts any text input with instructor speech. No specific format requir
 | Word doc        | Upload `.docx` — text is extracted automatically |
 
 Minimum 100 characters. There is no maximum, the map-reduce pipeline handles transcripts of any length.
+Test commit
 
+This also serves as a guide for PR - Pull requests: 
 This also testing by Shobana
 
-=======
 This also serves as a guid for PR - Pull requests: 
 - Feature update : feature/<somefeatureYouadd>
 - bugfix : bugfix/fix-login-button
 - document Update: docs/update-readme
 ---
-This is a testing line
-## License
-=======
+
+
+## Licensex
 
 MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez
 
 
 Trying to add some doc
 #Testing line - Sabari
+#Testing - Karthik
+#Testing - Nat
 
+#Testing - Nat
+# 
 - readme changes
 - added new features
 
+ # Testing GIT Changes
 #Testing - Nat
+#adding testing line 
+#Testing - Nat- readme changes
+#Testing -Bhagya
 
 #Testing - Naushin. 
 
 MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez.
+
+## changes to readme to get contributor access for Gopal KV... from inceptez class  
+check readme
+
+## Test Comment from Raj
+...
