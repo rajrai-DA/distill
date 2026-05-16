@@ -645,6 +645,13 @@ This also serves as a guid for PR - Pull requests:
 - document Update: docs/update-readme
 ---
 
+## Who Is This For?
+
+- AI Architects designing LLM-powered systems
+- Backend Engineers building streaming AI APIs
+- Frontend Engineers integrating SSE-based UX
+- Educators building AI-assisted learning tools
+- Product Managers exploring AI-native UX patterns
 
 ## Licensex
 
